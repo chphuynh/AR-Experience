@@ -13,4 +13,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   imageName: gamelan_marker
   imageTexture: {fileID: 2800000, guid: 1a65966876e80e343a1e75c0c78835c5, type: 3}
-  physicalSize: 0
+  physicalSize: 0.3048

@@ -13,4 +13,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   imageName: speedLimitMarker
   imageTexture: {fileID: 2800000, guid: 9d4e50abd0c9119478bab69146fd2380, type: 3}
-  physicalSize: 3.2
+  physicalSize: 0.6096
